@@ -587,7 +587,12 @@ Stay immersive and maintain RP, even if others break rules.
 - 12 v 12 is allowed only when a ticket with staff is made and approved with both party leaders, law vs gang or gang vs gang and staff.
 
 - If you attack a group or gang 2 times and there is no retaliation, you cannot attack the same group again unless that group instigates back in a meaningful way
- 
+
+- Putting down a gang claim at the designated locations opens yourself up to being attacked
+
+- When a gang claims a location via in game claim items, they are agreeing to not form alliances with gangs that hold the other claim locations on the map
+
+
 # Miscellaneous Rules
 
 ## Law and Politics
