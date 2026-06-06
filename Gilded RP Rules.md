@@ -585,6 +585,8 @@ Stay immersive and maintain RP, even if others break rules.
 - Gangs can defend their home base with any number up to a maximum of 12; any reservists must remain non-combatants. 
 
 - 12 v 12 is allowed only when a ticket with staff is made and approved with both party leaders, law vs gang or gang vs gang and staff.
+
+- If you attack a group or gang 2 times and there is no retaliation, you cannot attack the same group again unless that group instigates back in a meaningful way
  
 # Miscellaneous Rules
 
