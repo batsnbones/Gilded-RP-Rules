@@ -592,6 +592,8 @@ Stay immersive and maintain RP, even if others break rules.
 
 - When a gang claims a location via in game claim items, they are agreeing to not form alliances with gangs that hold the other claim locations on the map
 
+- Gang claims must be placed outside of locked structures, siege barricades can be placed anywhere that isnt a locked building if in range
+
 
 # Miscellaneous Rules
 
