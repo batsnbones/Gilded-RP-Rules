@@ -541,10 +541,9 @@ Stay immersive and maintain RP, even if others break rules.
 - Corruption is not allowed within government-paid medical offices.
 
 - This applies to any character who receives a paycheck from a government-paid medical office, including but not limited to:
-
-- Commonwealth Medical Office
-- Guarma Medical Office
-- Mexico Medical Office
+ - Commonwealth Medical Office
+ - Guarma Medical Office
+ -  Mexico Medical Office
 
 - Characters in government-paid medical positions may not use their job, access, authority, supplies, abilities, or position for criminal gain, whether for themselves or for others.
 
