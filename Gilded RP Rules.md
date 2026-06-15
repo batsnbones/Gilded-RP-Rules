@@ -541,18 +541,17 @@ Stay immersive and maintain RP, even if others break rules.
 - Corruption is not allowed within government-paid medical offices.
 
 - This applies to any character who receives a paycheck from a government-paid medical office, including but not limited to:
- - Commonwealth Medical Office
- - Guarma Medical Office
- -  Mexico Medical Office
+  - Commonwealth Medical Office
+  - Guarma Medical Office
+  - Mexico Medical Office
 
 - Characters in government-paid medical positions may not use their job, access, authority, supplies, abilities, or position for criminal gain, whether for themselves or for others.
 
 - This includes, but is not limited to:
-
-- Crafting, assisting with, or enabling drug production
-- Using medical supplies, job abilities, or job access to support criminal activity
-- Picking up, treating, assisting, protecting, or prioritising friends, allies, gang members, or criminals during active criminal activity for criminal benefit
-- Using an official medical position to hide, protect, excuse, or enable criminal actions
+  - Crafting, assisting with, or enabling drug production
+  - Using medical supplies, job abilities, or job access to support criminal activity
+  - Picking up, treating, assisting, protecting, or prioritising friends, allies, gang members, or criminals during active criminal activity for criminal benefit
+  - Using an official medical position to hide, protect, excuse, or enable criminal actions
 
 - Government-paid medical positions may not be used as substitutes for outlaw doctor roleplay. Outlaw doctors exist for criminal medical roleplay and should be used for that purpose.
 
@@ -672,14 +671,13 @@ Stay immersive and maintain RP, even if others break rules.
 - A character may not hold two jobs that earn a government paycheck at the same time.
 
 - The following jobs and roles do **not** count toward the 2-job limit:
-
-- Lawyer-specific jobs
-- Judge
-- District Attorney / Assistant District Attorney
-- DOJ Paralegal
-- Beekeeper
-- Fisherman
-- Group / faction related roles, such as Native, outlaw doctor, or gang roles
+  - Lawyer-specific jobs
+  - Judge
+  - District Attorney / Assistant District Attorney
+  - DOJ Paralegal
+  - Beekeeper
+  - Fisherman
+  - Group / faction related roles, such as Native, outlaw doctor, or gang roles
 
 - Native specialisations **do count** toward the 2-job limit. This includes, but is not limited to, roles such as Shaman, Tailor, or other specialised Native jobs.
 
