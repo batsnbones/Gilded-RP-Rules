@@ -536,6 +536,27 @@ Stay immersive and maintain RP, even if others break rules.
 
 - All distribution of revive medication and smelling salts must be documented in the proper channels. There are no private sales of these meds, and none are given for free. It is for server health that it is tracked. Any violation of this will result in OOC consequences, as well as Roleplay-oriented IC consequences.
 
+## Corruption in Government-Paid Medical Offices
+
+- Corruption is not allowed within government-paid medical offices.
+
+- This applies to any character who receives a paycheck from a government-paid medical office, including but not limited to:
+
+- Commonwealth Medical Office
+- Guarma Medical Office
+- Mexico Medical Office
+
+- Characters in government-paid medical positions may not use their job, access, authority, supplies, abilities, or position for criminal gain, whether for themselves or for others.
+
+- This includes, but is not limited to:
+
+- Crafting, assisting with, or enabling drug production
+- Using medical supplies, job abilities, or job access to support criminal activity
+- Picking up, treating, assisting, protecting, or prioritising friends, allies, gang members, or criminals during active criminal activity for criminal benefit
+- Using an official medical position to hide, protect, excuse, or enable criminal actions
+
+- Government-paid medical positions may not be used as substitutes for outlaw doctor roleplay. Outlaw doctors exist for criminal medical roleplay and should be used for that purpose.
+
 # Outlaw Doctors
 
 - Outlaw doctors can rob from a player they provide treatment to, are in a medical scene with, or revive. This is allowed even within the robbing cooldown by an outlaw doctor only. All other standard robbery rules still apply. This is how outlaw doctors get paid.
@@ -645,13 +666,27 @@ Stay immersive and maintain RP, even if others break rules.
 
 - Please refer to the Business tab for more information.
 
-# Multi Job Rules
+# Multijob Rule
 
-- You cannot have two jobs that earn a government paycheck.
-  
-- Do not complete your own supply chains, ie, blacksmiths should go to a carpenter for supplies instead of using multijob to craft both carpenter and blacksmith items.
+- A character may hold a maximum of **2 main jobs** at any given time.
 
-- Players are not allowed to have more than one character in the same line of work.
+- A character may not hold two jobs that earn a government paycheck at the same time.
+
+- The following jobs and roles do **not** count toward the 2-job limit:
+
+- Lawyer-specific jobs
+- Judge
+- District Attorney / Assistant District Attorney
+- DOJ Paralegal
+- Beekeeper
+- Fisherman
+- Group / faction related roles, such as Native, outlaw doctor, or gang roles
+
+- Native specialisations **do count** toward the 2-job limit. This includes, but is not limited to, roles such as Shaman, Tailor, or other specialised Native jobs.
+
+- Players may not use alternate characters to bypass this rule. A player may not have two characters with the **same job**. For example, a player may not have one character working as a horse trainer and another character also working as a horse trainer.
+
+- Characters may not use multiple jobs to complete their own supply chains. Having access to multiple jobs does not allow a character to fully produce, process, transport, and sell goods entirely by themselves when doing so would bypass intended roleplay interaction.
 
 # IC Pinboard Artwork Guidelines
 
